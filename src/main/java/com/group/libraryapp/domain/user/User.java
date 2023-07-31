@@ -1,4 +1,4 @@
-package com.group.libraryapp.domain.User;
+package com.group.libraryapp.domain.user;
 
 public class User {
 
